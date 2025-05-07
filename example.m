@@ -1,7 +1,8 @@
 %This code performes the exemplary analysis with the use 
 % of DeepQuadrature neural network
 % source: 
-% M. Cywińska, M. Rogalski, F. Brzeski, K. Patorski, M. Trusiak, 
+% M. Cywińska, M. Józwik, K. Patorski, A. Ahmad, 
+% B. Ahluwalia, B. Kemper, M. Trusiak,
 % "DeepQuadrature: universal convolutional neural network 
 % enlarging space-bandwidth product 
 % in single-shot fringe pattern optical metrology" 
